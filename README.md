@@ -1,4 +1,5 @@
 Notes Web-App
 - Add Note 
 - Delete Note
-- Using vite
+- note-list
+- Using react-vite
